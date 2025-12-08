@@ -30,7 +30,7 @@ uv sync
 Run the editor to define text fields and checkbox areas on your template:
 
 ```
-python main.py edit --template template.png
+uv run main.py edit --template example.png
 ```
 
 Controls:
@@ -49,7 +49,7 @@ Use a config JSON to map fields to generator functions.
 Example:
 
 ```
-python main.py generate --template template.png --config config.json --gennum 20 --outputfolder out --outputtype png
+uv run main.py generate --template example.png --config config.json --gennum 20 --outputfolder out --outputtype png
 ```
 
 The generator will create multiple synthetic example images based on the template and configuration.
