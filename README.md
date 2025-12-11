@@ -19,7 +19,7 @@ This project provides a complete workflow for creating synthetic form datasets. 
 2. Install dependencies:
 
 ```
-pip install opencv-python
+uv sync
 ```
 
 3. Place your template image in the project folder.
