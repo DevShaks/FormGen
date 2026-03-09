@@ -57,3 +57,9 @@ The generator will create multiple synthetic example images based on the templat
 
 Each output sample now produces a companion JSON file in the same folder. The metadata file shares the image's base name and ends with `.json` (for example `sample_1.json`) and records when the form was generated, who triggered the run, and the exact field values or checkbox selections that were written to the image.
 
+## Disclaimer
+This repository and all generated outputs (including images, metadata, synthetic forms, stamps, handwriting overlays, and related artifacts) are provided strictly for educational, research, testing, and demonstration purposes.
+All generated data is synthetic and fictitious. It must not be used, relied upon, or deployed in any real-world application, production system, operational workflow, compliance process, medical process, legal process, governmental process, financial system, identity verification process, or decision-making system.
+This project is not intended to create or support documents, artifacts, or data for real-world use, impersonation, fraud, or misrepresentation.
+No representation or warranty is made regarding the accuracy, completeness, safety, legality, compliance, or fitness of the generated data for any purpose. Any resemblance to real persons, institutions, identifiers, documents, or records is purely coincidental.
+By using this repository, users agree that all usage remains limited to lawful educational or experimental contexts. Any use outside these contexts is undertaken entirely at the user's own risk and responsibility.
